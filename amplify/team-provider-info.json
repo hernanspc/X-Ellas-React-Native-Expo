@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-xellas-dev-125251-authRole",
+      "UnauthRoleArn": "arn:aws:iam::705275083523:role/amplify-xellas-dev-125251-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::705275083523:role/amplify-xellas-dev-125251-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-xellas-dev-125251-deployment",
+      "UnauthRoleName": "amplify-xellas-dev-125251-unauthRole",
+      "StackName": "amplify-xellas-dev-125251",
+      "StackId": "arn:aws:cloudformation:sa-east-1:705275083523:stack/amplify-xellas-dev-125251/13778b10-aafe-11ed-ad00-0263e08757b6",
+      "AmplifyAppId": "duce0ybyn650w"
+    },
+    "categories": {
+      "auth": {
+        "xellas39811610": {}
+      },
+      "api": {
+        "xellas": {}
+      }
+    }
+  }
+}
